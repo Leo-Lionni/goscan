@@ -1,14 +1,14 @@
 package main
 
 import (
-    "github.com/google/gopacket/pcap"
-    "time"
+    "context"
     "github.com/google/gopacket"
     "github.com/google/gopacket/layers"
-    "net"
-    "context"
+    "github.com/google/gopacket/pcap"
     manuf "github.com/timest/gomanuf"
+    "net"
     "strings"
+    "time"
 )
 
 func listenARP(ctx context.Context) {
