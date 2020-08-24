@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # goscan
 
 ![image](https://user-images.githubusercontent.com/1621058/32154543-63c4e560-bcff-11e7-8a92-5281e18f221e.png)
@@ -41,3 +42,6 @@ Goscan work in Linux/Mac using [libpcap](http://www.tcpdump.org/) and on Windows
 
 If you need English comments, check this fork: https://github.com/skoky/goscan/tree/english 
 
+=======
+# goscan
+>>>>>>> da44467721b3022f8515778fddf4345221ea36a8
